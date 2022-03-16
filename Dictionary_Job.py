@@ -1,0 +1,18 @@
+My_Dictionary_For_Job = {
+    'job': 'работа',
+    'work': 'работа',
+    'activity': 'деятельность',
+    'career': 'карьера',
+    'profession': 'профессия',
+    'company': 'компания',
+    'staff': 'персонал',
+    'colleague': 'коллега',
+    'salary': 'зарплата',
+    'income': 'доход',
+    'customer': 'клиент',
+    'skill': 'навык',
+    'knowledge': 'знания',
+    'experience': 'опыт',
+    'task': 'задание',
+    'working day': 'рабочий день',
+}
